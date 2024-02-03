@@ -5,6 +5,10 @@ public class Class01 {
         int y = 2;
         System.out.println(x+y);
         System.out.println("Versiyon 1 tamamlandı");
+
+        /// Versiyon 2
+        System.out.println(x*y);
+        System.out.println("Versiyon 2 tamamlandı.");
         
         
         
